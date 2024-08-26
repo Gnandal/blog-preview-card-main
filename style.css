@@ -29,7 +29,7 @@ body {
 }
 
 main {
-    width: 375px;
+    width: 384px;
     background-color: var(--color-white);
 
     display: flex;
