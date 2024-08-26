@@ -29,17 +29,18 @@ body {
 }
 
 main {
-    width: 384px;
+    width: 375px;
     background-color: var(--color-white);
 
     display: flex;
     flex-direction: column;
-    gap: 24px;
+    gap: 12px;
 
     padding: 24px;
     border-radius: 20px;
 
     filter: drop-shadow(8px 8px #000000);
+    border: #000000 1px solid;
 }
 
 img.illustration-article {
@@ -49,7 +50,6 @@ img.illustration-article {
 .content {
     display: flex;
     flex-direction: column;
-    gap: 12;
 }
 
 .content p {
