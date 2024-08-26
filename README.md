@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github Repository](https://github.com/Gnandal/blog-preview-card-main)
-- Live Site URL: [Demo](https://https://gnandal.github.io/blog-preview-card-main/)
+- Live Site URL: [Demo](https://gnandal.github.io/blog-preview-card-main/)
 
 ## My process
 
